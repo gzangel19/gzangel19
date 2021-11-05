@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Node,Laravel,Vue, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
+
 <!--
 **gzangel19/gzangel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
