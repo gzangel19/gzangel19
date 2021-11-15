@@ -79,7 +79,7 @@ ____
                                                                                                                                                  
 | ERP DHS  |
 |---|
-| <a href="https://gitlab.com/gzangel/eccomercedhs" target="_blank"> <img src="https://i.ibb.co/rdm7Zg5/Sin-t-tulo.png" width="100%" height="200"/> </a> 
+| <a href="https://github.com/gzangel19/ErpDhs" target="_blank"> <img src="https://i.ibb.co/qngTKQR/7.png" width="100%" height="350px"/> </a> 
    Enterprise Resource Planning (ERP) se refiere al tipo de software que de uso interno de la empresa <a href ="https://www.facebook.com/dhstienda?_rdc=1&_rdr"> DHS </a> para administrar sus actividades internas como la compra de mercaderia, ventas, pedidos, pago de sueldos y entre otros funciones.
 
    - Tecnologias Utilizada:
