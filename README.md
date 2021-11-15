@@ -61,17 +61,34 @@ ____
  
  </p>
 
+____
 
 #### Mis proyectos:
 
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
+| Eccommerce DHS  |
+|---|
+| <a href="https://gitlab.com/gzangel/eccomercedhs" target="_blank"> <img src="https://i.ibb.co/rdm7Zg5/Sin-t-tulo.png" width="100%" height="200"/> </a> 
+   Sistema de Eccomerce Realizado para el grupo DHS
+   - Tecnologias Utilizada:
+      - Laravel 7
+      - Javascript
+      - Bootstrap
+      - Css
+      - Stylus
+   </p>
+                                                                                                                                                 
+| ERP DHS  |
+|---|
+| <a href="https://gitlab.com/gzangel/eccomercedhs" target="_blank"> <img src="https://i.ibb.co/rdm7Zg5/Sin-t-tulo.png" width="100%" height="200"/> </a> 
+   Sistema de Eccomerce Realizado para el grupo DHS
+   - Tecnologias Utilizada:
+      - Laravel 7
+      - Javascript
+      - Bootstrap
+      - Css
+      - Stylus
+   </p>
+____
 
 #### ¿Hablamos?☕️
 
