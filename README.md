@@ -15,27 +15,33 @@ Desarrollador web full-stack 💻♨️
       - TypeScript
       - Java
      
-     - FrontEnd Development
-        - Angular
-        - Vue
-        - JavaScript
-        - ReactJs
-        - CSS
-        - Bootstrap
-        - Stylus
-      
-      - Backend Development
-        - NodeJs
-        - Laravel
+ ##### FrontEnd Development
+
+<p align="left>
+<a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="65" height="65"/> </a> 
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html5" width="65" height="65"/> </a> 
+</p>
+
+
+____
+
+
+##### Backend Development
+<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+</p>
+
+
+_____
 
 ##### Database
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mysql" width="65" height="65"/> 
-  </a> 
-
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="65" height="65"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mongodb" width="65" height="65"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="65" height="65"/> </a> 
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
  </p>
+
 
 
  ##### Others
