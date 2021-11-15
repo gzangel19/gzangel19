@@ -1,21 +1,27 @@
-### Console.log(Hello Word !!!!! Mi nombre es Gauna, Angel Guillermo 👋)
+### Console.log(Mi nombre es Gauna, Angel Guillermo 👋)
 
-Desarrollador web full-stack 💻♨️
+#### Desarrollador web full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
-- Actualmente me dedico a:
-    - Reforzar conocimientos sobre el stack tecnológico y nuevas tecnologías (Vue, Python, PhP)
-    - Desarrollo en proyectos full stack 👉🏻
-    - Trabajando en DHS,Tecnologia & Servicios como desarrollador Full Stack
+#### Actualmente me dedico a:
+
+- Reforzar conocimientos sobre el stack y nuevas tecnologías
+- Realizar proyectos full stack
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+___
    
- - Tengo conocimientos sobre
+#### Tengo conocimientos sobre:
+
+
+##### Programming languages
+
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65"/> 
+</p>
+        
+____
  
-    - Programming languages:
-      - JavaScript
-      - Php
-      - TypeScript
-      - Java
-     
- ##### FrontEnd Development
+##### FrontEnd Development
 
 <p align="left>
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> 
@@ -29,7 +35,9 @@ ____
 
 
 ##### Backend Development
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+<p align="left"> 
+               <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> 
+               <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="65" height="65"/> </a>
 </p>
 
 
@@ -42,13 +50,15 @@ _____
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
  </p>
 
-
+____
 
  ##### Others
  
  <p align="left"> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git" width="65" height="65"/>  </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="git" width="65" height="65"/>  </a>
+ 
  </p>
 
 
