@@ -64,6 +64,18 @@ ____
 ____
 
 #### Mis proyectos:
+       
+| Portafolio Personal  |
+|---|
+       
+<a href="https://gzangel19.github.io/MyPortafolio/" target="_blank"> <img src="https://i.ibb.co/sQ4zzkQ/portafolio1.png" width="100%" height="350"/> </a> 
+  Mi Portafolio Personal 
+   - Tecnologias Utilizada:
+      - HTML 5
+      - Javascript
+      - Bootstrap
+      - Css
+   </p>
 
 | Eccommerce DHS  |
 |---|
