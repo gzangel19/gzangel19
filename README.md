@@ -65,6 +65,24 @@ ____
 
 #### Mis proyectos:
        
+| Sistemas de Likes |
+|---|
+| <a href="https://github.com/gzangel19/sistemasLikes" target="_blank"> <img src="https://i.ibb.co/jZ05Rzt/02.png" alt="Sin-t-tulo" border="0" width="1000" height="500"/> </a>  
+   
+  Sistema de likes dinámico, procesar imágenes, controlar el DOM con PHP jQuery AJAX
+
+   - Tecnologias Utilizada:
+      - PHP
+      - Javascript
+      - Bootstrap
+      - Sass
+      - jQuery
+      - Ajax
+      - Prepros
+
+   </p>
+____
+       
 | Portafolio Personal  |
 |---|
        
@@ -105,7 +123,7 @@ ____
 
 | AGENDA DE CONTACTOS PERSONAL |
 |---|
-| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/jZ05Rzt/02.png" alt="02" border="0" width="1000" height="500"/> </a> 
+| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="02" border="0" width="1000" height="500"/> </a> 
    
    Desarrollo de una agenda personal de contactos, Proyecto con PHP usando PDO.
 
@@ -118,23 +136,7 @@ ____
    </p>
 ____
 
-| Sistemas de Likes |
-|---|
-| <a href="https://github.com/gzangel19/sistemasLikes" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="Sin-t-tulo" border="0" width="1000" height="500"/> </a>  
-   
-  sistema de likes dinámico, procesar imágenes, controlar el DOM con PHP jQuery AJAX
 
-   - Tecnologias Utilizada:
-      - PHP
-      - Javascript
-      - Bootstrap
-      - Sass
-      - jQuery
-      - Ajax
-      - Prepros
-
-   </p>
-____
 
 
 
