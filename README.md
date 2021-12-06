@@ -68,7 +68,7 @@ ____
 | Portafolio Personal  |
 |---|
        
-<a href="https://gzangel19.github.io/MyPortafolio/" target="_blank"> <img src="https://i.ibb.co/sQ4zzkQ/portafolio1.png" width="100%" height="350"/> </a> 
+<a href="https://gzangel19.github.io/MyPortafolio/" target="_blank"> <img src="https://i.ibb.co/sQ4zzkQ/portafolio1.png" width="1000" height="500"/> </a> 
   Mi Portafolio Personal 
    - Tecnologias Utilizada:
       - HTML 5
@@ -79,7 +79,7 @@ ____
 
 | Eccommerce DHS  |
 |---|
-| <a href="https://gitlab.com/gzangel/eccomercedhs" target="_blank"> <img src="https://i.ibb.co/rdm7Zg5/Sin-t-tulo.png" width="100%" height="200"/> </a> 
+| <a href="https://gitlab.com/gzangel/eccomercedhs" target="_blank"> <img src="https://i.ibb.co/rdm7Zg5/Sin-t-tulo.png" width="1000" height="500"/> </a> 
    CMS con Eccomerce realizado para la empresa <a href ="https://www.facebook.com/dhstienda?_rdc=1&_rdr"> DHS </a>  
    - Tecnologias Utilizada:
       - Laravel 7
@@ -91,7 +91,7 @@ ____
                                                                                                                                                  
 | ERP DHS  |
 |---|
-| <a href="https://github.com/gzangel19/ErpDhs" target="_blank"> <img src="https://i.ibb.co/qngTKQR/7.png" width="100%" height="350px"/> </a> 
+| <a href="https://github.com/gzangel19/ErpDhs" target="_blank"> <img src="https://i.ibb.co/qngTKQR/7.png" width="1000" height="500"/> </a> 
    Enterprise Resource Planning (ERP) se refiere al tipo de software que de uso interno de la empresa <a href ="https://www.facebook.com/dhstienda?_rdc=1&_rdr"> DHS </a> para administrar sus actividades internas como la compra de mercaderia, ventas, pedidos, pago de sueldos y entre otros funciones.
 
    - Tecnologias Utilizada:
@@ -105,7 +105,7 @@ ____
 
 | SISTEMA DE LIKES |
 |---|
-| <a href="https://github.com/gzangel19/sistemasLikes" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="Sin-t-tulo" border="0" width="100%" height="350px"/> </a> 
+| <a href="https://github.com/gzangel19/sistemasLikes" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="Sin-t-tulo" border="0" width="1000" height="500"/> </a> 
    
    Desarrollo de una agenda personal de contactos, Proyecto con PHP usando PDO.
 
@@ -120,7 +120,7 @@ ____
 
 | AGENDA DE CONTACTOS PERSONAL |
 |---|
-| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/jZ05Rzt/02.png" alt="02" border="0" width="500" height="350px"/> </a> 
+| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/jZ05Rzt/02.png" alt="02" border="0" width="1000" height="500"/> </a> 
    
   sistema de likes dinámico, procesar imágenes, controlar el DOM con PHP jQuery AJAX
 
