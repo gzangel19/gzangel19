@@ -103,9 +103,9 @@ ____
    </p>
 ____
 
-| AGENDA DE CONTACTOS PERSONAL |
+| SISTEMA DE LIKES |
 |---|
-| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="Sin-t-tulo" border="0" width="100%" height="350px"/> </a> 
+| <a href="https://github.com/gzangel19/sistemasLikes" target="_blank"> <img src="https://i.ibb.co/khQFNvf/Sin-t-tulo.png" alt="Sin-t-tulo" border="0" width="100%" height="350px"/> </a> 
    
    Desarrollo de una agenda personal de contactos, Proyecto con PHP usando PDO.
 
@@ -115,6 +115,24 @@ ____
       - Bootstrap
       - Css
       - PDO
+   </p>
+____
+
+| AGENDA DE CONTACTOS PERSONAL |
+|---|
+| <a href="https://github.com/gzangel19/Agenda-Personal" target="_blank"> <img src="https://i.ibb.co/jZ05Rzt/02.png" alt="02" border="0" width="500" height="350px"/> </a> 
+   
+  sistema de likes dinámico, procesar imágenes, controlar el DOM con PHP jQuery AJAX
+
+   - Tecnologias Utilizada:
+      - PHP
+      - Javascript
+      - Bootstrap
+      - Sass
+      - jQuery
+      - Ajax
+      - Prepros
+
    </p>
 ____
 
